@@ -16,11 +16,6 @@ A curated collection of **tools**, **courses**, **articles**, and **books** that
 
 ---
 
-## 🧭 Overview
-This repository serves as my **personal knowledge hub** — a place to store and share useful programming resources, references, and tools I discover along the way.
-
----
-
 ## 🔍 Regular Expressions
 - [Regex101](https://regex101.com/) — Real-time regex tester with explanations
 - [RegExr](https://regexr.com/) — Interactive regex editor and reference
