@@ -34,8 +34,7 @@ This repository serves as my **personal knowledge hub** — a place to store and
 ---
 
 ## 📖 Books & Reading
-- *[Clean Code](https://learndjango.com/courses/django-for-beginners/)* — Will Vincent
-
+- *[Django for Beginners](https://learndjango.com/courses/django-for-beginners/)* — Will Vincent
 
 ---
 
@@ -43,11 +42,11 @@ This repository serves as my **personal knowledge hub** — a place to store and
 - [DevHints.io](https://devhints.io/) — Developer cheat sheets for many tools and languages
 - [OverAPI](https://overapi.com/) — Collection of language and framework cheat sheets
 
-
 ---
 
 ## 🌈 Miscellaneous
 - [Roadmap.sh](https://roadmap.sh/) — Developer learning roadmaps
+- [ShellScript.sh/](https://www.shellscript.sh/) - A Bourne Shell Programming / Scripting Tutorial for learning about using the Unix shell.
 
 ---
 
