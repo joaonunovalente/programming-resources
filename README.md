@@ -1,4 +1,4 @@
-# 🧠 Programming Resources
+# Programming Resources
 
 A curated collection of **tools**, **courses**, **articles**, and **books** that I’ve found useful for programming and web development.  
 
@@ -29,7 +29,10 @@ A curated collection of **tools**, **courses**, **articles**, and **books** that
 ---
 
 ## 📖 Books & Reading
-- *[Django for Beginners](https://learndjango.com/courses/django-for-beginners/)* — Will Vincent
+- *[Django for Beginners](https://learndjango.com/courses/django-for-beginners/)* — Will S. Vincent
+- *[Django for Professionals](https://learndjango.com/courses/django-for-professionals/)* — Will S. Vincent
+- *[Django for APIs](https://learndjango.com/courses/django-for-apis/)* — Will S. Vincent
+
 
 ---
 
