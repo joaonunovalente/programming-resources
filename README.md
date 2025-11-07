@@ -33,7 +33,6 @@ A curated collection of **tools**, **courses**, **articles**, and **books** that
 - *[Django for Professionals](https://learndjango.com/courses/django-for-professionals/)* — Will S. Vincent
 - *[Django for APIs](https://learndjango.com/courses/django-for-apis/)* — Will S. Vincent
 
-
 ---
 
 ## 🧩 Cheat Sheets
