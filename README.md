@@ -9,7 +9,8 @@ A curated collection of **tools**, **courses**, **articles**, and **books** that
 - [JavaScript](#javascript)
 - [Regular Expressions](#regular-expressions)
 - [Courses & Learning Platforms](#courses--learning-platforms)
-- [Books & Reading](#books--reading)
+- [MOOC courses from University of Helsinki](#mooc-courses-from-university-of-helsinki)
+- [Books](#books)
 - [Cheat Sheets](#cheat-sheets)
 - [Miscellaneous](#miscellaneous)
 - [Contributing](#contributing)
@@ -35,25 +36,25 @@ A curated collection of **tools**, **courses**, **articles**, and **books** that
 
 ## MOOC courses from University of Helsinki
 
-[Introduction to Programming course](https://programming-25.mooc.fi/) and [ Advanced Course in Programming](https://programming-25.mooc.fi/)
+- [Introduction to Programming course](https://programming-25.mooc.fi/) and [ Advanced Course in Programming](https://programming-25.mooc.fi/)
 
-[Cyber Security](https://cybersecuritybase.mooc.fi/)
+- [Cyber Security](https://cybersecuritybase.mooc.fi/)
 
-[Full Stack Open](https://fullstackopen.com/en/)
+- [Full Stack Open](https://fullstackopen.com/en/)
 
-[Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024)
+- [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2024-2025)
 
-[DevOps with Docker](https://devopswithdocker.com/)
+- [DevOps with Docker](https://devopswithdocker.com/)
 
-[DevOps with Kubernetes](https://devopswithkubernetes.com/)
+- [DevOps with Kubernetes](https://devopswithkubernetes.com/)
 
-[Elements of AI](https://www.elementsofai.com/)
+- [Elements of AI](https://www.elementsofai.com/)
 
-[Java Programming](https://java-programming.mooc.fi/)
+- [Java Programming](https://java-programming.mooc.fi/)
 
-[Introduction to the Internet of Things online course](https://courses.mooc.fi/org/uh-cs/courses/introduction-to-the-internet-of-things-mooc)
+- [Introduction to the Internet of Things](https://courses.mooc.fi/org/uh-cs/courses/introduction-to-the-internet-of-things-mooc)
 
-[Data Structures and Algorithms](https://tira.mooc.fi/spring-2024/)
+- [Data Structures and Algorithms](https://tira.mooc.fi/spring-2025/)
 
 ---
 
@@ -64,11 +65,7 @@ A curated collection of **tools**, **courses**, **articles**, and **books** that
 
 ---
 
-## Cheat Sheets
-- [DevHints.io](https://devhints.io/) — Developer cheat sheets for many tools and languages
-- [OverAPI](https://overapi.com/) — Collection of language and framework cheat sheets
 
----
 
 ## Miscellaneous
 - [Roadmap.sh](https://roadmap.sh/) — Developer learning roadmaps
