@@ -10,6 +10,7 @@ A curated collection of **tools**, **courses**, **articles**, and **books** that
 - [Regular Expressions](#regular-expressions)
 - [Courses & Learning Platforms](#courses--learning-platforms)
 - [MOOC courses from University of Helsinki](#mooc-courses-from-university-of-helsinki)
+- [Useful Free Templates](#useful-free-templates)
 - [Books](#books)
 - [Cheat Sheets](#cheat-sheets)
 - [Miscellaneous](#miscellaneous)
@@ -55,6 +56,14 @@ A curated collection of **tools**, **courses**, **articles**, and **books** that
 - [Introduction to the Internet of Things](https://courses.mooc.fi/org/uh-cs/courses/introduction-to-the-internet-of-things-mooc)
 
 - [Data Structures and Algorithms](https://tira.mooc.fi/spring-2025/)
+
+---
+
+## Useful Free Templates
+- [HTML5 UP](https://html5up.net/) — Responsive HTML5/CSS3 website templates
+- [Start Bootstrap](https://startbootstrap.com/templates) — Free Bootstrap templates for landing pages and apps
+- [ThemeWagon](https://themewagon.com/theme-tag/free/) — Free HTML templates across categories
+- [Creative Tim Freebies](https://www.creative-tim.com/bootstrap-themes/free) — Free Bootstrap UI kits and dashboard templates
 
 ---
 
